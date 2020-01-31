@@ -12,7 +12,7 @@ class Dog
   end
  
   def self.all #method all, returns each dog's name
-    # @@all.each {|dog| puts "#{dog.name}"}
+    # @@all.each {|dog| puts "#{dog.name}"} 
     @@all 
   end   
   
